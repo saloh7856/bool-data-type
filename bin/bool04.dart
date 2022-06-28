@@ -9,7 +9,7 @@
 
 bool func(int a){
   bool ans;
-  ans= a>=4;
+  ans = a<0;
   return ans ;
 }
 void main(){
