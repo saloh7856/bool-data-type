@@ -10,7 +10,7 @@
 bool func(){
   int a;
   bool ans;
-  a=7;
+  a=10;
   ans= a==7;
   return ans ;
 }
