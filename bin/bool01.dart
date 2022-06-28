@@ -7,14 +7,11 @@
   Returns:
       bool
   */
-bool func(){
-  int a,b;
+bool func(int a,b){
   bool ans;
-  a=4;
-  b=4;
   ans= a==b;
   return ans ;
 }
 void main(){
-  print(func());
+  print(func(4,4));
 }
